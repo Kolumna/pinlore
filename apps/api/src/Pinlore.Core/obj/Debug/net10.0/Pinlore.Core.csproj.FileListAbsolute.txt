@@ -1,0 +1,11 @@
+/Users/michaljaniec/Projects/pinlore/apps/api/src/Pinlore.Core/bin/Debug/net10.0/Pinlore.Core.deps.json
+/Users/michaljaniec/Projects/pinlore/apps/api/src/Pinlore.Core/bin/Debug/net10.0/Pinlore.Core.dll
+/Users/michaljaniec/Projects/pinlore/apps/api/src/Pinlore.Core/bin/Debug/net10.0/Pinlore.Core.pdb
+/Users/michaljaniec/Projects/pinlore/apps/api/src/Pinlore.Core/obj/Debug/net10.0/Pinlore.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaljaniec/Projects/pinlore/apps/api/src/Pinlore.Core/obj/Debug/net10.0/Pinlore.Core.AssemblyInfoInputs.cache
+/Users/michaljaniec/Projects/pinlore/apps/api/src/Pinlore.Core/obj/Debug/net10.0/Pinlore.Core.AssemblyInfo.cs
+/Users/michaljaniec/Projects/pinlore/apps/api/src/Pinlore.Core/obj/Debug/net10.0/Pinlore.Core.csproj.CoreCompileInputs.cache
+/Users/michaljaniec/Projects/pinlore/apps/api/src/Pinlore.Core/obj/Debug/net10.0/Pinlore.Core.dll
+/Users/michaljaniec/Projects/pinlore/apps/api/src/Pinlore.Core/obj/Debug/net10.0/refint/Pinlore.Core.dll
+/Users/michaljaniec/Projects/pinlore/apps/api/src/Pinlore.Core/obj/Debug/net10.0/Pinlore.Core.pdb
+/Users/michaljaniec/Projects/pinlore/apps/api/src/Pinlore.Core/obj/Debug/net10.0/ref/Pinlore.Core.dll

@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Pinlore.Api/Pinlore.Api.csproj" />
+    <Project Path="src/Pinlore.Core/Pinlore.Core.csproj" />
+    <Project Path="src/Pinlore.Infra/Pinlore.Infra.csproj" />
+  </Folder>
+</Solution>

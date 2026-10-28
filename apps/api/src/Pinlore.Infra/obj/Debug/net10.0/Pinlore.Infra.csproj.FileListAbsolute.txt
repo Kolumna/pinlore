@@ -1,0 +1,16 @@
+/Users/michaljaniec/Projects/pinlore/apps/api/src/Pinlore.Infra/bin/Debug/net10.0/Pinlore.Infra.deps.json
+/Users/michaljaniec/Projects/pinlore/apps/api/src/Pinlore.Infra/bin/Debug/net10.0/Pinlore.Infra.dll
+/Users/michaljaniec/Projects/pinlore/apps/api/src/Pinlore.Infra/bin/Debug/net10.0/Pinlore.Infra.pdb
+/Users/michaljaniec/Projects/pinlore/apps/api/src/Pinlore.Infra/bin/Debug/net10.0/Pinlore.Core.dll
+/Users/michaljaniec/Projects/pinlore/apps/api/src/Pinlore.Infra/bin/Debug/net10.0/Pinlore.Core.pdb
+/Users/michaljaniec/Projects/pinlore/apps/api/src/Pinlore.Infra/obj/Debug/net10.0/Pinlore.Infra.csproj.AssemblyReference.cache
+/Users/michaljaniec/Projects/pinlore/apps/api/src/Pinlore.Infra/obj/Debug/net10.0/Pinlore.Infra.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaljaniec/Projects/pinlore/apps/api/src/Pinlore.Infra/obj/Debug/net10.0/Pinlore.Infra.AssemblyInfoInputs.cache
+/Users/michaljaniec/Projects/pinlore/apps/api/src/Pinlore.Infra/obj/Debug/net10.0/Pinlore.Infra.AssemblyInfo.cs
+/Users/michaljaniec/Projects/pinlore/apps/api/src/Pinlore.Infra/obj/Debug/net10.0/Pinlore.Infra.csproj.CoreCompileInputs.cache
+/Users/michaljaniec/Projects/pinlore/apps/api/src/Pinlore.Infra/obj/Debug/net10.0/EFCoreNpgsqlNetTopologySuite.cs
+/Users/michaljaniec/Projects/pinlore/apps/api/src/Pinlore.Infra/obj/Debug/net10.0/Pinlore..673BB088.Up2Date
+/Users/michaljaniec/Projects/pinlore/apps/api/src/Pinlore.Infra/obj/Debug/net10.0/Pinlore.Infra.dll
+/Users/michaljaniec/Projects/pinlore/apps/api/src/Pinlore.Infra/obj/Debug/net10.0/refint/Pinlore.Infra.dll
+/Users/michaljaniec/Projects/pinlore/apps/api/src/Pinlore.Infra/obj/Debug/net10.0/Pinlore.Infra.pdb
+/Users/michaljaniec/Projects/pinlore/apps/api/src/Pinlore.Infra/obj/Debug/net10.0/ref/Pinlore.Infra.dll

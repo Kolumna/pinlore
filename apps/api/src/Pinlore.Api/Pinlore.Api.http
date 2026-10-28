@@ -1,0 +1,6 @@
+@Pinlore.Api_HostAddress = http://localhost:5270
+
+GET {{Pinlore.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
